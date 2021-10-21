@@ -1,13 +1,13 @@
 # This is the README file of Face_recognition poject developt by Ashot Nikoghosyan
 
 ## CONTENTS 
-* AUTHOR.
-* DESCRIPTION.
-* COMMANDS.
+* AUTHOR
+* DESCRIPTION
+* COMMANDS
     
 # AUTHER 
 * ASHOT NIKOGHOSYAN
-* phonenumber:+37477049404
+* phone number:+37477049404
 * gmail:ashot.nikogosyan2000@gmail.com
    
 # DESCRIPTION
