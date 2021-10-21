@@ -14,7 +14,7 @@
 This project is about recognizing faces. You onlu need to download face photos into 'Images', and afther that the programm learns that faces via AI, after which Your cameras can recognize faces you downloaded beforehand. You can run this program thanks to Linux terminal but after that You have to install a few libs for python.
   
 # 3.COMMANDS
-  * After dowload this program you can call this commands in Linux terminal.
+  * After dowloand this program you can call this commands in Linux terminal.
   
   * If you want to get all libs Python you can use this commands in your terminal
   * $ `pip install opencv-python`
