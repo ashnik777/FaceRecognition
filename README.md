@@ -11,10 +11,7 @@
 * gmail:ashot.nikogosyan2000@gmail.com
    
 # DESCRIPTION
-  This is the project that can recognise faces:
-  You can dowloand face photos in to 'images' and after that program thanks to AI can learn faces and 
-  after run you can see that your camera can recognise faces:
-  You can run this program thanks to Linux terminal but after that you have to install a few libs for python: 
+This project is about recognizing faces. You onlu need to download face photos into 'Images', and afther that the programm learns that faces via AI, after which Your cameras can recognize faces you downloaded beforehand. You can run this program thanks to Linux terminal but after that You have to install a few libs for python.
   
 # 3.COMMANDS
   * After dowload this program you can call this commands in Linux terminal.
