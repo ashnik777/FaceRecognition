@@ -1,4 +1,4 @@
-# This is the README file of Face_recognition poject developt by Ashot Nikoghosyan
+# This is the README file of Face_recognition poject developed by Ashot Nikoghosyan
 
 ## CONTENTS 
 * AUTHOR
